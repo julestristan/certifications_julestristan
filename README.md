@@ -5,6 +5,9 @@
 - Korean : TOPIK 5
 ### **Datascientest**
 - **[Python for Data Science](./img/python_for_ds.pdf)**
+- **[Data visualization with Matplotlib](./img/data-viz-matplotlib.pdf)**
+- **[Data visualization with Seaborn](./img/data-viz-seaborn.pdf)**
+- **[Exploratory Statistics with Python](./img/exploratory-statistics.pdf)**
 ### **DeepLearning.AI**
 
 - Machine Learning Specialization
