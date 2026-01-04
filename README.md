@@ -10,7 +10,7 @@
 - **[Exploratory Statistics with Python](./img/exploratory-statistics.pdf)**
 ### **DeepLearning.AI**
 
-- Machine Learning Specialization
+- **Machine Learning Specialization**
     - Unsupervised Learning, Recommenders, Reinforcement Learning
-    - Advanced Learning Algorithms
-    - Supervised Machine Learning: Regression and Classification 
+    - [Advanced Learning Algorithms](./img/DLAI_Advanced-Learning-Algorithms.pdf)
+    - [Supervised Machine Learning: Regression and Classification](./img/DLAI_Supervised-Machine-Learning.pdf)
